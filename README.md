@@ -1,4 +1,4 @@
- Custom Color Picker Extension
+ Custom Color Picker Chrome Extension
 - Description: Developed a custom color picker extension using HTML, CSS, and JavaScript, allowing users to easily select and copy colors for their web projects.
 - Key Features:
   - Intuitive user interface for color selection.
